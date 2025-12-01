@@ -358,5 +358,3 @@ Jika ada masalah:
 - [ ] API for mobile app
 
 ---
-
-**🎉 SELAMAT!** Sistem rental mobil siap digunakan. Semua requirement (Autentikasi, CRUD, Upload File, Relasi Data) telah terimplementasi dengan lengkap.
