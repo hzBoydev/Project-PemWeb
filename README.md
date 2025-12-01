@@ -181,7 +181,7 @@ if (!password_verify($password, $user['password'])) {
 |------|--------|------|--------|--------|-----------|
 | **cars.php** | - | ✅ List all<br>✅ Search/Filter | - | - | Daftar mobil |
 | **car_detail.php** | - | ✅ Single detail | - | - | Detail mobil |
-| **admin/dashboard.php** | ✅ Add modal | ✅ Table view | ✅ Status update | - | Admin dashboard |
+| **admin/dashboard.php** | ✅ Add modal | ✅ Table view | ✅ Status update | ✅ Delete car | Admin dashboard |
 | **AdminController.php** | ✅ addCar() | - | - | - | Controller add |
 
 #### **CRUD untuk Booking**
